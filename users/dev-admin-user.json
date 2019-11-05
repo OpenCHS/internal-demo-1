@@ -1,0 +1,13 @@
+[
+  {
+    "uuid": "a3d47624-f7ae-4fdf-a942-ddb57d4b8b2e",
+    "name": "internal-demo-1-admin",
+    "password": "password",
+    "email": "openchssupport+internal+demo+admin@samanvayfoundation.org",
+    "phoneNumber": "+919999999999",
+    "organisationUUID": "d0b7c3da-434f-4f21-b68e-615985172b48",
+    "operatingIndividualScope": "None",
+    "admin": false,
+    "orgAdmin": true
+  }
+]
